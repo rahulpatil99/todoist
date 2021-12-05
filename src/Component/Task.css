@@ -1,0 +1,6 @@
+.task{
+  width : calc(922px - 300px);
+  background-color: white;
+  height: 100vh;
+  padding: 75px 20px 0;
+}
