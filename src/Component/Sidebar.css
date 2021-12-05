@@ -1,0 +1,22 @@
+.side-bar{
+  width : 300px;
+  height: 100vh;
+  padding-top: 75px;
+  border-right: 2px solid #f1f1f1;
+  background-color: #fafafa;
+}
+
+div{
+  margin-bottom: 10px;
+  cursor: pointer;
+  padding:15px;
+
+}
+
+div i{
+  margin-right: 10px;
+}
+
+div .active{
+  background-color: white;
+}
